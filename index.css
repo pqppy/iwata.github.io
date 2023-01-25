@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    width:800px;
+    margin:0 auto;
+}
+
+h1{
+    width: 200px;
+    margin:auto;
+    border: 10px outset red;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.DO{
+    width:600px;
+}
+
+.MJ{
+    width:600px;
+}
+
+.SE{
+    width:600px;
+}
